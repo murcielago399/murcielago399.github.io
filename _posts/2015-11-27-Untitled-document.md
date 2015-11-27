@@ -8,5 +8,5 @@ published: true
 ---
 This is a test
 
-No kidding
+No kidding however I am starting a blog
 
