@@ -1,8 +1,6 @@
 ---
-title: murcielago399s blog post
+title: murcielago399
 layout: post
-tags:
-- 
 source-id: 1Wfll8De2hjkgs4GJny9KPn2TfOnnocc0RtDvy0LNxOE
 published: true
 ---
