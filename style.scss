@@ -107,8 +107,8 @@ strong, b {
 }
 
 img {
-    -webkit-filter: blur(2px); /* Chrome, Safari, Opera */
-    filter: blur(2px);
+    -webkit-filter: blur(0px); /* Chrome, Safari, Opera */
+    filter: blur(0px);
 }
 
 // Fixes images in popup boxes from Google Translate
