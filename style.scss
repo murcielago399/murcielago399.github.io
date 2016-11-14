@@ -247,8 +247,7 @@ nav {
   border-bottom: 1px solid $lightGray;
 }
 
-.posts > .post:last-child {
-  padding-bottom: 1em;
+.posts > .post:last-child {  padding-bottom: 1em;
   border-bottom: none;
 }
 
@@ -258,8 +257,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
-    font-style: italic;
+    font-size: 22px;    font-style: italic;
 div.ex1 {
     width: 500px;
     margin: auto;
@@ -269,8 +267,7 @@ div.ex1 {
 div.ex2 {
     max-width: 500px;
     margin: auto;
-    border: 3px solid #73AD21;
-}  }
+    border: 3px solid #73AD21;}  }
 
   .comments {
     margin-top: 10px;
@@ -306,16 +303,16 @@ footer {
 <div id="snackbar">You are Viewing Murcielago399 s Blog! ..</div>
 
 div.ex1 {
-    width: 900px;
+    width: 1200px;
     margin: auto;
     border: 3px solid #73AD21;
 }
 
 div.ex2 {
-    max-width: 100000px;
+    max-width: 1000000px;
     margin: auto;
     border: 3px solid #73AD21;
 }
-Try it Yourself »
+
 
 
