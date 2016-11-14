@@ -260,7 +260,17 @@ nav {
     color: $gray;
     font-size: 22px;
     font-style: italic;
-  }
+div.ex1 {
+    width: 500px;
+    margin: auto;
+    border: 3px solid #73AD21;
+}
+
+div.ex2 {
+    max-width: 500px;
+    margin: auto;
+    border: 3px solid #73AD21;
+}  }
 
   .comments {
     margin-top: 10px;
