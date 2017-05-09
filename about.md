@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi its a blog not much but it works!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+i like tennis and cars , cars are great
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
