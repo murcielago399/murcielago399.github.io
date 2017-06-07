@@ -111,6 +111,7 @@ img {
     filter: blur(0px);
 }
 
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -254,7 +255,7 @@ nav {
 
  .post {
    blockquote {
-   margin: 1.8em .8em;
+   margin: 1.8em 0.8em;
    border-left: 2px solid $gray;
    padding: 0.1em 1em;
    color: $gray ;
@@ -300,25 +301,4 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
-<!-- Use a button to open the snackbar -->
-<button onclick="myFunction()">Show Snackbar</button>
-
-<!-- The actual snackbar -->
-<div id="snackbar">You are Viewing Murcielago399 s Blog! ..</div>
-
-div.ex1 {
-    width: 1200px;
-    margin: auto;
-    border: 3px solid #73AD21;
-}
-
-div.ex2 {
-    max-width: 1000000px;
-    margin: auto;
-    border: 3px solid #73AD21;
-}
-
-body {
-    background-color: lightblue;
-} 
 
