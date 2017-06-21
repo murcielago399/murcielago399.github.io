@@ -23,12 +23,57 @@ body {
   color: #000000;
 }
 
+
 .container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 60%;
+
+
+
+
+color: $black;
+
+
+margin: 0 auto;
+
+
+max-width: 740px;
+
+
+padding: 0 20px;
+
+
+width: 100%;
+
+
+background-color: #ffffff;
+
+
+    background-opacity: 0.6;
+
+
+        border-radius: 25px;
+
+
+  padding: 20px;
+
+
+    font: "Courier New", monospace;
+
+
+   width: 100%;
+
+
+   border: 15px #642EFE ;
+
+
+   border-style: inset;
+
+
 }
+
+
+
+
+
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
