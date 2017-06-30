@@ -1,5 +1,5 @@
 ---
-title: Codeacademy Lesson 4
+title: Codeacademy lesson 4
 layout: post
 author: joshua.handy
 permalink: /codeacademy-lesson-4/
