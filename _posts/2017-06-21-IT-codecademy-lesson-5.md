@@ -1,5 +1,5 @@
 ---
-title: IT codecademy lesson 5
+title: Codecademy lesson 5
 layout: post
 author: joshua.handy
 permalink: /it-codecademy-lesson-5/
