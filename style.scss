@@ -73,7 +73,28 @@ background-color: #ffffff;
 
 }
 
+table, th, td {
+	border: 2px solid #d3d3d3 ;
+	padding: 25px;
+	font: "Courier New", monospace;
+        font-size: 20px;
+	box-shadow: 5px 5px 5px #000000;
+}
 
+table {
+    padding: 20px; 
+    width: 100%;
+}
+th {
+	height: 50px;
+	background-color: $black;
+        color: $white;
+}
+td {
+	height: 30px;
+	background-color: $gray;
+        color: $black;
+}
 
 
 
